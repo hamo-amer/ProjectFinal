@@ -1,0 +1,29 @@
+
+.listProducts {
+  display:flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+.listcart {
+  text-align: center;
+}
+.about  {
+  text-align: center;
+  min-height: 40vh;
+  background-color: rgb(41, 32, 32);
+  color :white;
+  display:flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.about li  {
+  list-style: none;
+}
+.findus ul {
+  display:flex;
+  justify-content: space-between;
+}
+.about a {
+  color:white;
+}
